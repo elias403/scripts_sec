@@ -1,2 +1,2 @@
 # scripts_sec
- List of script that i usually use
+ List of scripts that i usually use
